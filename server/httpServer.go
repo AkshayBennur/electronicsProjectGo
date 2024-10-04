@@ -3,9 +3,9 @@ package server
 import (
 	"database/sql"
 	"log"
-	"runners-mysql/controllers"
-	"runners-mysql/repositories"
-	"runners-mysql/services"
+	"electronicsProjectGo/controllers"
+	"electronicsProjectGo/repositories"
+	"electronicsProjectGo/services"
 
 	"github.com/gin-gonic/gin"
 	"github.com/spf13/viper"

@@ -2,8 +2,8 @@ package services
 
 import (
 	"net/http"
-	"runners-mysql/models"
-	"runners-mysql/repositories"
+	"electronicsProjectGo/models"
+	"electronicsProjectGo/repositories"
 	// "strconv"
 	// "time"
 )

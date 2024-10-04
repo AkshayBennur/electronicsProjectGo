@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	// "fmt"
 	"net/http"
-	"runners-mysql/models"
+	"electronicsProjectGo/models"
 	"strconv"
 )
 

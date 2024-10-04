@@ -5,8 +5,8 @@ import (
 	"io"
 	"log"
 	"net/http"
-	"runners-mysql/models"
-	"runners-mysql/services"
+	"electronicsProjectGo/models"
+	"electronicsProjectGo/services"
 	"github.com/gin-gonic/gin"
 )
 

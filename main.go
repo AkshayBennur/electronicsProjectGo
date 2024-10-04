@@ -2,8 +2,8 @@ package main
 
 import (
 	"log"
-	"runners-mysql/config"
-	"runners-mysql/server"
+	"electronicsProjectGo/config"
+	"electronicsProjectGo/server"
 
 	_ "github.com/go-sql-driver/mysql"
 )
